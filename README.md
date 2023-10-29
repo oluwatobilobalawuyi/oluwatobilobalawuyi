@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @oluwatobilobalawuyi
 - 👀 I’m interested in football commonly called soccer in the US
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++, Python, Node.js, React.js and swift
 - 💞️ I’m looking to collaborate on many projects
 - 📫 How to reach me lawuyioluwatobiloba@gmail.com
+- SWE activist
