@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oluwatobilobalawuyi
 - 👀 I’m interested in football commonly called soccer in the US
-- 🌱 I’m currently learning C++, Python, Node.js, React.js and swift
+- 🌱 I am fluent in mySQL, C++, Python, swift, figma and linux. I am learning React.js, Node.js, React Native and MondgoDb
 - 💞️ I’m looking to collaborate on many projects
 - 📫 How to reach me lawuyioluwatobiloba@gmail.com
-- SWE activist
+- SWE, Cybersecurity and AI/ML enthusiast
